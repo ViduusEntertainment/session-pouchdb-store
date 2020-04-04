@@ -24,9 +24,9 @@
   "dependencies": {
     "debug": "^4.1.1",
     "express-session": "^1.15.6",
-    "extend": "^3.0.2",
+    "lodash": "^4.17.15",
     "pouchdb": "^7.0.0",
-    "pouchdb-adapter-memory": "^6.4.1"
+    "pouchdb-adapter-memory": "^6.4.3"
   },
   "devDependencies": {
     "express": "^4.16.2",
